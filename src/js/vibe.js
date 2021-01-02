@@ -1,9 +1,9 @@
   // Bank some good vibe options
   const vibes = [
-    "...and you are awesome!",
-    "...have a wonderful day!",
-    "...and you've got this!",
-    "...and so is this puppy! 🐶"
+    "...und du bist super!",
+    "...und schönen Tag noch!",
+    "...und das passt so!",
+    "...und dieses Welpen auch! 🐶"
   ];
 
    // choose a random good vibe
